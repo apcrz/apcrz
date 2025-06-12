@@ -11,7 +11,7 @@ Sou um desenvolvedor independente com foco em projetos autorais. Trabalho com fe
 ## ⚙ Estilo de desenvolvimento
 - **Pragmatismo:** Foco no que traz resultados reais, evitando modismos.
 - **Simplicidade:** Soluções diretas e funcionais, sem complicações desnecessárias.
-+ **Autonomia:** Trabalho com independência total e decisões bem fundamentadas.
+- **Autonomia:** Trabalho com independência total e decisões bem fundamentadas.
 - **Código limpo:** Priorizo legibilidade e manutenção, evitando complexidade excessiva.
 
 ## 🕹 Explorações paralelas
