@@ -29,7 +29,7 @@ Gosto de explorar ferramentas fora do meu stack principal, por curiosidade técn
 - **Editor secundário:** Vim (para ajustes rápidos)
 - **Gerenciador de pacotes:** PNPM
 - **Controle de versão:** Git
-- **Colaboração e comunicação:** GitHub, GitLab, Discord, Rocket.Chat, Telegram
+- **Colaboração e comunicação:** GitHub, GitLab, Discord, Telegram
 - **Gerenciamento de tarefas:** GitHub Projects, Trello
 
 ## 📫 Contato
