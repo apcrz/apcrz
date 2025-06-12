@@ -1,6 +1,6 @@
 # Allan – Desenvolvedor independente focado em projetos autorais
 
-Sou um desenvolvedor independente com foco em projetos autorais. Trabalho com ferramentas sólidas, stack enxuta e decisões baseadas em praticidade. Não sigo modinhas: priorizo o que funciona, é estável, faz sentido a longo prazo e traz resultados.
+Sou um desenvolvedor independente com foco em projetos autorais. Trabalho com ferramentas sólidas, stack enxuta e decisões baseadas em praticidade. Não sigo "modinhas": priorizo o que funciona, é estável, faz sentido a longo prazo e traz resultados.
 
 ## 🛠️ Stack principal
 
