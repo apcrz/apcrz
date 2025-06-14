@@ -1,4 +1,4 @@
-# Allan – Desenvolvedor independente focado em projetos autorais
+# Allan – Indie Dev
 
 Sou um desenvolvedor independente com foco em projetos autorais. Trabalho com ferramentas sólidas, stack enxuta e decisões baseadas em praticidade. Não sigo "modinhas": priorizo o que funciona, é estável, faz sentido a longo prazo e traz resultados.
 
@@ -34,6 +34,6 @@ Gosto de explorar ferramentas fora do meu stack principal, por curiosidade técn
 
 ## 📫 Contato
 
-Fique à vontade para abrir issues ou entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/allan-possani-da-cruz-2372b4212/) se quiser conversar sobre projetos sérios.
+Fique à vontade para abrir issues, entrar em contato por [email](mailto:allanpcruz@gmail.com) ou entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/allan-possani-da-cruz-2372b4212/) se quiser conversar sobre projetos.
 
 "Não reinvento a roda. Eu a coloco pra rodar."
