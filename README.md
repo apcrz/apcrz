@@ -37,3 +37,5 @@ Gosto de explorar ferramentas fora do meu stack principal, por curiosidade técn
 Fique à vontade para abrir issues, entrar em contato por [email](mailto:allanpcruz@gmail.com) ou entrar em contato pelo [LinkedIn](https://www.linkedin.com/in/allan-possani-da-cruz-2372b4212/) se quiser conversar sobre projetos.
 
 "Não reinvento a roda. Eu a coloco pra rodar."
+
+[![wakatime](https://wakatime.com/badge/user/c9d9843c-1bbe-4b3b-b0c6-9265341bf0a5.svg)](https://wakatime.com/@c9d9843c-1bbe-4b3b-b0c6-9265341bf0a5)
